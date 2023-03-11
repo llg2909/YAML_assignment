@@ -1,0 +1,11 @@
+picking:
+  max_error:
+    bottle:
+    - 0.001
+    - 0.001
+    - 0.001
+error_msgs:
+  impossible_move:
+    en: Robot cannot perform the requested move
+
+ 
