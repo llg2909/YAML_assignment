@@ -15,7 +15,7 @@ Furthermore there is an optional argument to overwrite the common data to both f
 In a python 3.8.0 environment :
     pip install -r requirements.txt \
 This command will install the dependencies used for this project.
-
+If there are problems, try to uncomment the commented dependencies in the requirements.txt file and launch the command again.
 
 ## Description
 
